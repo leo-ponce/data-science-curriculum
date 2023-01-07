@@ -5,6 +5,8 @@ data lake
 data repositories
 data science vs. ml
 AWS data curriculum
-oython scripts to cleanup data
+python scripts to cleanup data
 Pandas farmiliarity
 Excel farmiliarity
+data visualizations
+data storytelling
