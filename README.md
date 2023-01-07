@@ -1,5 +1,7 @@
 # data-science-curriculum
 
+100 page Machine Learning Book
+
 data storage
 data lake
 data repositories
